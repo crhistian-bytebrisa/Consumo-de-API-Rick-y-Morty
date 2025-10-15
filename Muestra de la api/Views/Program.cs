@@ -2,7 +2,7 @@
 using Muestra_de_la_api.Models;
 using System.Text.Json;
 
-namespace Muestra_de_la_api
+namespace Muestra_de_la_api.Views
 {
     internal class Program
     {
